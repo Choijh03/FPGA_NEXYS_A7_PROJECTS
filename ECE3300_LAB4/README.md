@@ -2,7 +2,7 @@ LAB4 - - 2 digit counter using 2 seven-seg-displays by using instantiation
 
 ECE3300L.02 - Summer 2022
 
-Group A : Jihun Choi(Bronco ID#: 011841206) Jacky Li(Bronco ID#:014181245)
+Group A : Jihun Choi(Bronco ID#: 011841206) 
 
 
 LAB4 description:

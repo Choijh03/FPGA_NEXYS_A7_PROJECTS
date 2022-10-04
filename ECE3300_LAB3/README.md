@@ -2,7 +2,7 @@ LAB3 - 16 bit Full Adder connected with 16 bit Demultiplexer by using instantiat
 
 ECE3300L.02 - Summer 2022
 
-Group A : Jihun Choi(Bronco ID#: 011841206) Jacky Li(Bronco ID#:014181245)
+Group A : Jihun Choi(Bronco ID#: 011841206)
 
 
 LAB3 description:

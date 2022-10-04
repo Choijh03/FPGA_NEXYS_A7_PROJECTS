@@ -6,7 +6,7 @@ ECE3300L.02 - Summer 2022
 
 Group A :
 Jihun Choi(Bronco ID#: 011841206)
-Jacky Li(Bronco ID#:014181245)
+
 
 
 

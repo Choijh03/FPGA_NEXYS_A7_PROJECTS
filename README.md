@@ -1,5 +1,4 @@
-# ECE3300L_Summer_2022_Group_Jihun
+# FPGA_NEXYS_A7_PROJECTS
 
-Member: 
-Jihun Choi (Bronco ID#: 011841206)
+This repo contains small size projects using NEXYS_A7 and Verilog 
 
